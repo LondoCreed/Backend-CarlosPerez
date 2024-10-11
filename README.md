@@ -25,3 +25,7 @@ creamos .env -->  PORT=8080
 
 .gitignore --> .env
 
+...
+
+npm install mongoose
+
